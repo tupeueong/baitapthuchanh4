@@ -1,42 +1,40 @@
-stty: /dev/tty: No such device or address
 
-Thanks for using JUnit! Support its development at https://junit.org/sponsoring
 
-?
-?? JUnit Jupiter ?
-?  ?? LoiBienTest ?
-?  ?  ?? uclnBien() ?
-?  ?  ?? tongBien() ?
-?  ?  ?? giaiThuaBien() ?
-?  ?  ?? namNhuanBien() ?
-?  ?  ?? tongGiaiThuaBien() ?
-?  ?  ?? nguyenToBien() ?
-?  ?  ?? thangKhongHopLe() ?
-?  ?  ?? ptVoSoNghiem() ?
-?  ?  ?? dienTichCanhKhongHopLe() ?
-?  ?  ?? ptBacNhatVoNghiem() ?
-?  ?  ?? chuViCanhKhongHopLe() ?
-?  ?? HopLeTest ?
-?     ?? nguyenTo() ?
-?     ?? khongNguyenTo() ?
-?     ?? ngay30() ?
-?     ?? ngay31() ?
-?     ?? thang2NamNhuan() ?
-?     ?? tongGiaiThua() ?
-?     ?? dienTich() ?
-?     ?? tong() ?
-?     ?? ucln() ?
-?     ?? ptNghiemKep() ?
-?     ?? chuVi() ?
-?     ?? ptHaiNghiem() ?
-?     ?? giaiThua() ?
-?     ?? ptBacNhat() ?
-?     ?? thang2NamThuong() ?
-?     ?? ptVoNghiem() ?
-?? JUnit Vintage ?
-?? JUnit Platform Suite ?
+.
++-- JUnit Jupiter [OK]
+| +-- LoiBienTest [OK]
+| | +-- uclnBien() [OK]
+| | +-- tongBien() [OK]
+| | +-- giaiThuaBien() [OK]
+| | +-- namNhuanBien() [OK]
+| | +-- tongGiaiThuaBien() [OK]
+| | +-- nguyenToBien() [OK]
+| | +-- thangKhongHopLe() [OK]
+| | +-- ptVoSoNghiem() [OK]
+| | +-- dienTichCanhKhongHopLe() [OK]
+| | +-- ptBacNhatVoNghiem() [OK]
+| | '-- chuViCanhKhongHopLe() [OK]
+| '-- HopLeTest [OK]
+|   +-- nguyenTo() [OK]
+|   +-- khongNguyenTo() [OK]
+|   +-- ngay30() [OK]
+|   +-- ngay31() [OK]
+|   +-- thang2NamNhuan() [OK]
+|   +-- tongGiaiThua() [OK]
+|   +-- dienTich() [OK]
+|   +-- tong() [OK]
+|   +-- ucln() [OK]
+|   +-- ptNghiemKep() [OK]
+|   +-- chuVi() [OK]
+|   +-- ptHaiNghiem() [OK]
+|   +-- giaiThua() [OK]
+|   +-- ptBacNhat() [OK]
+|   +-- thang2NamThuong() [OK]
+|   '-- ptVoNghiem() [OK]
++-- JUnit Vintage [OK]
+'-- JUnit Platform Suite [OK]
 
-Test run finished after 149 ms
+Test run finished after 155 ms
 [         5 containers found      ]
 [         0 containers skipped    ]
 [         5 containers started    ]
